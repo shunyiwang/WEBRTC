@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HonLive</string>
+    <string name="connect">信令服务器地址</string>
+    <string name="sure">确认</string>
+    <string name="input_ip">输入服务器地址</string>
+    <string name="input_port">输入服务器端口</string>
+</resources>
